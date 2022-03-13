@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "siri-mivw",
+  "private_key_id": "3fa3db8c0d198ad8c04a7523a9e81913939784d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDrwPDJHXax6kYi\n84EPFQ7qYLKIt/LpLRBti1OfcgrO82xRTrTDKO0PeXGUOEyZi/8eEUQJXeZEGnfp\nRyIYiq75gDXpILAlbk9SMQKsvE98iCyyJcxwraOZB8/tJ14qPchCb9S1xdNcKHxM\neXVQJWo0a7QVVnOpfimG3aleVHQvnPAQTxu+DC8Ov0VV5krqOqV9yeCaoEZ47jh/\nMncZmZf/91TQpOzcYhvYUhKkpnIgpSIwBqumr55iwPwZuZgiCwLRKozFXLJzBt9m\nokoRgFV4rg4XvTlPGZn77jGzDcnvPlCpJpXVIkw0UUqpAlVR2976yY5EijcRfrk0\nCvPMsbrjAgMBAAECggEAObhH252UmXO3z0faAcTQnY6mN3X+CZvoaUGS7DdCMTAF\nBZUlCaEkBUVhCv6Lto5BnG1ywG5WebcXQ6yQSvztYRXEXTsNFWUAE6n/MyZ5uY4n\nj0hU2QOSSd3RSQl58xKkTKvPot9345jf8eNM1x4J9iKmeRDtCYLjjOsJVBiOR7eG\n7ZIdusoaZdGEdOAxO0kM4NVb/Yn7lzWXnb5qmWY6R46gjdRf9oQYdQh/HXgWiIAe\n/cMofSirGcjQXYwX7McieWlWfRr9mAqi6aGHZNUB9GFiBOQMpCWVS6h8MqYf8MkX\nzuvceQ6DDz1bzBs/Ok+fSVBrJa+n8LFpARByhhv81QKBgQD9okcN8MddNRFzzlAK\niJKZ6MVa47XAvXGJQiJ9aa14JVOem70ogLFfNZ6nx7Axw0WM6NwzRcxUteSEgM5L\nNEBR72vyZPx266TU4Ja3DlfBRogbpLN3tsYD9qxqKoYO7RkZXUouJjB2CaOZoT6f\npwV6QO4Z4xTJCK9Oq2Lqv18LdQKBgQDt8/Y+ZrDzAVn9DC73rTR/zCcvwrT+F02S\nwxrNlWR/zwKTgYtmqIr7DEoRECQhASc1IyNRjD32N6LL+cGktpqPTffBDSgqL4Zv\nMWw8KFWZKNlqEJjSJRMdQY+bwG4ZFAvCRuFicY86Jn3f+jXX/ieqL3zJ1wob5wNB\n8AsMYrpZ9wKBgGMRBWvehiBT4BM5nG3g1lIjZyKPGqjD1hrkqBAQPN9WxQiIkCPH\n0H/9s5CZIKrvOLVHJusn8h2MRkuy++DH8e+O8rzk0O+qLuGvL28kvQYTBIq3lBnI\nXCOkL8fwABjIZytPEvBfnkIclbgmEQ3O8QbFYbrexXmYWNEDhEloojkZAoGAKwhP\npAFWRtwbthOZ+tisAeCdxZlkuf7k3IHEOyGlRyfcw2hOGYape7VBP8y3e/CFcqqk\nHH9MRVbSbikAyBTt5rSm9Za3iMmHelxpwodY05X7m57cxERILKZKnlQylP53Ee9X\nm0IGMPH9GaBaVHF2IuTroGTvQxSIFkie9uJz6QkCgYEAgtSAfqQUraszcljNNLNA\nrFeRAbl9zDfldv3fgQgLfonikcunntdmVOcQgpWJ67Pc1Ylfm5yNhMohyyLdiaeH\nQFDO5YYMEjqv2FPPfjb+Kd3bPG5Dj6toFrK8ZCBJ3S5mDCtMJ40FG31gIPtDwktx\nySmZ3zUhTayfnxvFayXwsxY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "codebot-dialogflow-integration@siri-mivw.iam.gserviceaccount.com",
+  "client_id": "116408272246200814548",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/codebot-dialogflow-integration%40siri-mivw.iam.gserviceaccount.com"
+}
